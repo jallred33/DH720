@@ -64,7 +64,7 @@
 
 ### 2/22
 * readings/topics (all readings due on the day they're listed)
-	* [Weber, "'Reading' the Public Domain: Narrating and Listening to Librivox Audiobooks"](https://ezproxy.gc.cuny.edu/login?&url=https://muse.jhu.edu/cgi-bin/resolve_openurl.cgi?genre=&eissn=1529-1499&issn=1098-7371&volume=24&issue=1&spage=209&epage=243&date=2021&atitle=%22Reading%22%20the%20Public%20Domain:%20Narrating%20and%20Listening%20to%20Librivox%20Audiobooks)
+	* [Weber, "'Reading' the Public Domain: Narrating and Listening to Librivox Audiobooks"](https://muse.jhu.edu/article/788355)
   
 
 ### 2/26
