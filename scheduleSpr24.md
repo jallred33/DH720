@@ -90,7 +90,7 @@
 		
 ### 3/4
 * readings:
-	* Barthes, [“From Work to Text”](https://allred720fa20.commons.gc.cuny.edu/barthes-from-work-to-text/)
+	* Barthes, [“From Work to Text”](https://engl490spr24.commons.gc.cuny.edu/etexts/barthes-from-work-to-text/)
 	* Free-form annotation of Barthes text via hypothes.is
 
 ### 3/7                      
