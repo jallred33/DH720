@@ -172,7 +172,7 @@
 ### 4/15:
 * readings 
 	* examples of ludic literature. Read as much as you have time for:
-		* Shelley Jackson, [*Wunderkammer*](https://collection.eliterature.org/1/works/jackson__my_body_a_wunderkammer.html) and [Snow](https://www.instagram.com/snowshelleyjackson/)
+		* Shelley Jackson, [*Wunderkammer*](https://collection.eliterature.org/1/works/jackson__my_body_a_wunderkammer.html) and [Snow](https://www.instagram.com/snowshelleyjackson/) Note: *Snow* requires a Meta/Instagram account. Many of you probably have one (!), but I understand if that's a bridge too far.
 		* Anna Anthropy, ["Queers at the End of the World"](https://w.itch.io/end-of-the-world)
 		* Sample, [Ring Log](https://fugitivetexts.net/ring/), and [10 lost boys](https://samplereality.itch.io/10-lost-boys)
 
