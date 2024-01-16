@@ -199,21 +199,3 @@ no readings and regular meetings this week: all students will attend a 10 minute
 ### 5/13: wrap-up and discussion of final projects
 * final projects **due 5/15 at 5pm**
 * 5/15 is last day to drop a course with a grade of “W”
-
-
-## stuff that didn't fit
-* Nakamura on GoodReads: https://www.cambridge.org/core/journals/pmla/article/words-with-friends-socially-networked-reading-on-goodreads/3A9F79399EA461B56FCD01F97BC23CD4
-* Pressman synoptic chapter: Pressman, Jessica. “The Novel in the Digital Age.” The Cambridge Companion to the Novel, edited by Eric Bulson, Cambridge University Press, 2018, pp. 254–67. Cambridge University Press, https://doi.org/10.1017/9781316659694.016.
-* McGann and Samuels, [“Deformance and Interpretation](https://ezproxy.gc.cuny.edu/login?&url=https://muse.jhu.edu/cgi-bin/resolve_openurl.cgi?genre=&eissn=1080-661X&issn=0028-6087&volume=30&issue=1&spage=25&epage=56&date=1999&atitle=Deformance%20and%20Interpretation%26title=New%20literary%20history.)”
-* McGann, ["The Conceptual Foundations of *Ivanhoe*](http://www2.iath.virginia.edu/jjm2f/old/rockwell2b.htm)
-
-* Weber, Millicent. “‘Reading’ the Public Domain: Narrating and Listening to Librivox Audiobooks.” Book History, vol. 24, no. 1, 2021, pp. 209–43. cuny-gc.primo.exlibrisgroup.com, https://doi.org/10.1353/bh.2021.0007.
-* "how to play the victorian novel" chapter from Timothy Gao
-* Murray, ch 5 on Agency
-	* BSS on imagination
-	* Shelley Jackson, Snow, Wunderkammer, Patchwork Girl
-	* Moulthroup, Victory Garden
-	* Queers at the End...
-	* Billy Budd as RPG
-	* "magic circle" excerpt + Caillois excerpt?
-	* Bogost, Play Anything?             
