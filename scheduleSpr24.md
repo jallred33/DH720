@@ -149,7 +149,7 @@
 	
 ### 4/4:
 * readings:
-	* Johnson, "Melville's Fist" [C]
+	* **no readings: library session**. Location and details TBA.
 
 * work due:
 	* Final project proposal due on blog
