@@ -95,7 +95,7 @@
 
 ### 3/7                      
 * readings:
-	* Blair, [“Note Taking as an Art of Transmission”](https://www-jstor-org.ezproxy.gc.cuny.edu/stable/10.1086/427303?seq=1#metadata_info_tab_contents)
+	* Blair, [“Reading Strategies for Coping with Information Overload ca. 1550-1700"](https://www.jstor.org/stable/3654293)
 	* Vannevar Bush, [“As We May Think” (1945)](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 
 
