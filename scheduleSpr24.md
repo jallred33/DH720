@@ -18,7 +18,7 @@
 	* Leah Price, from What We Talk About When We Talk About Books (2019) [C]
 	* Alan Liu, [“From Reading to Social Computing”](https://dlsanthology.mla.hcommons.org/from-reading-to-social-computing/) 
 * annoucements/work due:
-	* **Blog Post #1:** Topic: Reading Inside-out (see site for prompt)      
+	* **Blog Post #1:** Topic: Reading Inside-out. Follow [this prompt ](https://engl490spr24.commons.gc.cuny.edu/2024/01/15/blog-post-1-prompt-reading-inside-out/)   
 	* 1/31 is...
 		* last day to add a class
 		* last day to drop for 75% tuition refund, and 
