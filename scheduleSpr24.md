@@ -164,7 +164,7 @@
 
 ### 4/11:
 * readings 	
-	* Sutton-Smith, from *The Ambiguity of Play*
+	* Sutton-Smith, from *The Ambiguity of Play* [C]
 * work due: 	
 	* **Blog Post #5 due**
 
