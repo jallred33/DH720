@@ -141,7 +141,7 @@
 
 ### 4/1:
 * readings:
-	* Caillois, from *Man, Play, Games* [C]
+	* Caillois, from *Man, Play, Games*, ch 2 (ch1 optional) [C]
 	* Huizinga, from *Homo Ludus* [C]
 *  work due
 	* Move #1 due
