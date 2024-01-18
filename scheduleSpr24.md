@@ -141,19 +141,18 @@
 
 ### 4/1:
 * readings:
+	* **no readings: library session**. Location and details TBA.
+* work due:
+	* Final project proposal due on blog
+	
+### 4/4:
+* readings:
 	* Caillois, from *Man, Play, Games*, ch 2 (ch1 optional) [C]
 	* Huizinga, from *Homo Ludus* [C]
 *  work due
 	* Move #1 due
 
-	
-### 4/4:
-* readings:
-	* **no readings: library session**. Location and details TBA.
 
-* work due:
-	* Final project proposal due on blog
-	* Quick discussion of final project ideas
 
 ### 4/8
 * readings:
@@ -184,6 +183,8 @@
 	* no readings: discussion of Ivanhoe game
 * work due:
 	* wrap-up Ivanhoe (end of Group Project #3)
+	 * annotated bibliography for final project due on blog
+  
 
 ## Final Project Conferences:
 ### 5/2: 
