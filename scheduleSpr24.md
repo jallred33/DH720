@@ -8,7 +8,7 @@
 
 ###  1/25: Introduction, requirements, assignments
                                                                                                                                                                                                                                                                                                     
-* introductions, policies, syllabus review 
+* introductions, policies, syllabus review: feel free to introduce yourself to me and each other virtually using the nifty [Padlet](https://huntercollege68.padlet.org/jallred/remake-of-intros-parts-of-speech-in-engl-490-494-aw8305cgkdwhi976)! 
 * Commons and hypothes.is onboarding
 
 ## 1: Does Anyone Still Read Books? Why and How? W(h)ither the Novel?                                                                                                                                                                                                                                                                                                              
