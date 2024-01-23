@@ -18,6 +18,9 @@
 
 * [http://cuny.is/group-doing-things-with-novels-870569766](http://cuny.is/group-doing-things-with-novels-870569766)
 
+**hypothes.is Group**: 
+* [https://hypothes.is/groups/WNmmdZor/engl490sp24](https://hypothes.is/groups/WNmmdZor/engl490sp24)
+
 **Catalog Number**: 
 	
 * ENGL 49008 (53931)
