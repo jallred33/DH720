@@ -105,7 +105,7 @@
 
 ### 3/11                  
 * readings:
-	* Barnett, ["Distributed reading: Literary reading in diverse environments"](http://digitalhumanities.org:8081/dhq/vol/12/2/000389/000389.html)
+	* Baron, from  [Words Onscreen](https://ebookcentral.proquest.com/lib/huntercollege-ebooks/reader.action?docID=1884055&ppg=132), read chs. 3 and 6: rest optional.
 		
 ### 3/14
 * readings:
