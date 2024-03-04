@@ -99,14 +99,15 @@
 	* Vannevar Bush, [“As We May Think” (1945)](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 
 
-* annoucements/work due:
-	* **Blog Post #3 due** on "annotations in the wild"
+
 
 
 ### 3/11                  
 * readings:
 	* Baron, from  [Words Onscreen](https://ebookcentral.proquest.com/lib/huntercollege-ebooks/reader.action?docID=1884055&ppg=132), read chs. 3 and 6: rest optional.
-		
+* annoucements/work due:
+	* **Blog Post #3 due** on "annotations in the wild": [here's the prompt]
+  
 ### 3/14
 * readings:
 	* Drucker, “The Virtual Codex” [C]  
