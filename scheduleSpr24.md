@@ -107,6 +107,7 @@
 	* Baron, from  [Words Onscreen](https://ebookcentral.proquest.com/lib/huntercollege-ebooks/reader.action?docID=1884055&ppg=132), read chs. 3 and 6: rest optional.
 * annoucements/work due:
 	* **Blog Post #3 due** on "annotations in the wild": [here's the prompt](https://engl490spr24.commons.gc.cuny.edu/2024/03/04/annotations-in-the-wild-prompt-for-post-4-due-3-11-note-change/)  
+
 ### 3/14
 * readings:
 	* Drucker, “The Virtual Codex” [C]  
