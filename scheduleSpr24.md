@@ -142,6 +142,7 @@
  	* Build Ivanhoe character
 * work due
 	* choose a role: signup [here](https://engl490spr24.commons.gc.cuny.edu/2022/11/20/group-project-3-playing-novels/) 
+
 ### 4/1:
 * readings:
 	* **no readings: library session**. In E114 (across from the stairwell on the 1st floor of the Library)
@@ -154,8 +155,6 @@
 	* Huizinga, from *Homo Ludus* [C]
 *  work due
 	* Move #1 due
-
-
 
 ### 4/8
 * readings:
