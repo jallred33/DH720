@@ -139,7 +139,9 @@
 * readings (all readings due on the day they're listed)
 	* Melville, *Billy Budd*
 	* McGann, "Like Leaving the Nile: IVANHOE, a User’s Manual" [C]
-
+ 	* Build Ivanhoe character
+* work due
+	* choose a role: signup [here](https://engl490spr24.commons.gc.cuny.edu/2022/11/20/group-project-3-playing-novels/) 
 ### 4/1:
 * readings:
 	* **no readings: library session**. Location and details TBA.
