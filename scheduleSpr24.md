@@ -144,7 +144,7 @@
 	* choose a role: signup [here](https://engl490spr24.commons.gc.cuny.edu/2022/11/20/group-project-3-playing-novels/) 
 ### 4/1:
 * readings:
-	* **no readings: library session**. Location and details TBA.
+	* **no readings: library session**. In E114 (across from the stairwell on the 1st floor of the Library)
 * work due:
 	* Final project proposal due on blog
 	
