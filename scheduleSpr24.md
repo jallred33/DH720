@@ -190,10 +190,11 @@
 
 ## Final Project Conferences:
 ### 5/2: 
-no readings and regular meetings this week: all students will attend a 10 minute in-person meeting with me in pairs. Signups TBA.
+no readings and regular meetings this week: all students will attend a 10 minute in-person meeting with me in pairs. Signups [here](https://www.dropbox.com/scl/fi/0trxf61oafpnxms8h8gmq/Pairs-Conferences-Sign-up-copy.paper?rlkey=u6actwsmfn267zapaurbnkqqy&dl=0).
 
 ### 5/6 
-no readings and regular meetings this week: all students will attend a 10 minute in-person meeting with me in pairs. Signups TBA.
+no readings and regular meetings this week: all students will attend a 10 minute in-person meeting with me in pairs. Signups [here](https://www.dropbox.com/scl/fi/0trxf61oafpnxms8h8gmq/Pairs-Conferences-Sign-up-copy.paper?rlkey=u6actwsmfn267zapaurbnkqqy&dl=0).
+.
 
 ## Special Topic TBA:
 ### 5/8: 
