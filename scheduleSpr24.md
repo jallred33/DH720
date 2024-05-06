@@ -196,9 +196,10 @@ no readings and regular meetings this week: all students will attend a 10 minute
 no readings and regular meetings this week: all students will attend a 10 minute in-person meeting with me in pairs. Signups [here](https://www.dropbox.com/scl/fi/0trxf61oafpnxms8h8gmq/Pairs-Conferences-Sign-up-copy.paper?rlkey=u6actwsmfn267zapaurbnkqqy&dl=0).
 .
 
-## Special Topic TBA:
+## Special Topic: The Digital Literary Sphere
 ### 5/8: 
-* we'll choose a special topic that we didn't get to cover this term, probably about "textual analysis" or "distant reading."
+* Murray, "Charting the Digital Literary Sphere" [C]
+* Brouillette, "Wattpad, Platform Capitalism, and the Feminization of Publishing Work" [C]
 
 ### 5/13: wrap-up and discussion of final projects
 * final projects **due 5/15 at 5pm**
